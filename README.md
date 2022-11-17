@@ -6,4 +6,6 @@ Programmers often use AJAX (Asynchronous JavaScript and XML) when working with A
 
 This course will teach you the basics about working with APIs and different AJAX technologies in the browser.
 
-# files save for reference
+## files save for reference
+ 
+ - learn use json api and fetch to access API data
